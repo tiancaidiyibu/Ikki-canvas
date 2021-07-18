@@ -5,7 +5,7 @@ var RADIUS = 8;
 var MARGIN_TOP = 60;
 var MARGIN_LEFT = 30;
 
-const endTime = new Date(2021,6,21,16,40,50);
+const endTime = new Date(2021,6,21,17,15,00);
 // endTime.setTime(endTime.getTime()+3600*1000)
 var curShowTimeSeconds = 0
 
